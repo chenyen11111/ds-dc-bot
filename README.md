@@ -1,5 +1,5 @@
 此為上學期的資料結構dc-bot
-DC-QA-BOT/
+ds-dc-bot/
 └── discord-bot/
     ├── .env
     ├── index.js
@@ -9,3 +9,4 @@ DC-QA-BOT/
     ├── main.py
     ├── question_gpt4o.py
     └── utils.py
+各有一份README，記得看一下
