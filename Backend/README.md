@@ -86,7 +86,7 @@ responses 陣列內包含欄位
 ├ wrong	str or None	評語或錯誤資訊
 ├ score	int	分數
 
-active_users_db（Redis DB3：登入中學生）
+4️⃣active_users_db（Redis DB3：登入中學生）
 Key 格式：{discord_id}
 欄位名稱	型態	說明
 std_id	str	學生學號（與 student_db 對應）
