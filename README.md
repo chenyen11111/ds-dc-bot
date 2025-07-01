@@ -4,7 +4,7 @@ DC-QA-BOT/
     ├── .env
     ├── index.js
     └── commands.json
-└── discord_model/
+└── 後端/ 會稍微有點不一樣但大致相同
     ├── database.py
     ├── main.py
     ├── question_gpt4o.py
