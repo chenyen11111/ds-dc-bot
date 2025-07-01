@@ -3,11 +3,6 @@ DC-QA-BOT/
     ├── .env
     ├── index.js
     └── commands.json
-└── discord_model/
-    ├── database.py
-    ├── main.py
-    ├── question_gpt4o.py
-    └── utils.py
 
 「使用 screen（互動式背景執行）執行
 screen -S discord-bot
