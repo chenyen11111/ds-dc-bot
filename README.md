@@ -23,12 +23,3 @@ CLIENT_ID=
 API_BASE=
 
 REDIS_URI="」
-
-「discord機器人使用流程:
-創建只有你的伺服器
-連結:
-按下連結把機器人加進你的伺服器
-接下來就可以開始嘗試」
-
-前端啟動: cd discord-bot
-node index.js
